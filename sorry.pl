@@ -5,6 +5,6 @@ while(1){
   sleep(1);
   print "N\n\n";
   sleep(1);
-  print "NYA!";
+  print "NYA!\n\n";
   sleep(1);
 }
